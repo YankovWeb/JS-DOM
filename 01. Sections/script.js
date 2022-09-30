@@ -10,6 +10,7 @@ function create(words) {
     document.getElementById("content").appendChild(div);
   }
   function show(event) {
+
     let p = event.target.children[0];
     p.style.display = "block";
   }
