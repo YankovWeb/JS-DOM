@@ -1,2 +1,2 @@
 # Js DOM
- vanilla js DOM.
+ vanilla js DOM
